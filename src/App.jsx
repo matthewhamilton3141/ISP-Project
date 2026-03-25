@@ -1,5 +1,4 @@
-import React, { useState, useEffect, useRef } from "react";
-import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, CartesianGrid } from "recharts";
+import React, { useState, useEffect } from "react";
 
 // --- 1. THEME CONFIGURATION ---
 const themes = {
